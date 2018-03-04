@@ -1,0 +1,4 @@
+#Mon Mar 05 01:49:07 CST 2018
+base.0=C\:\\QuizApplication\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

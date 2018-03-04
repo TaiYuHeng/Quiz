@@ -1,0 +1,166 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\QuizApplication\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\QuizApplication\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\QuizApplication\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\QuizApplication\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\3a30d97c073f7c3a9476933bb1a4ce3f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\a9b14be5b1b1eceaa5177d09ec76e243\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\77490ff5116484d3a3f0089b6f9ab94c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\ca7594392aa782b8db23562b6e37f1f7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7ceebce9c1fb44f74f7fd2d9bba2147e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\d27bef52e38db0f4ff699da0ff7e3d31\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\eac9360253c444449e68fa3df44faa14\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\00db8cf6f9acece44a97404131378370\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\cc2d29969366eda4d65e13e4dfca2e07\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\ec803f4ec9f3d136f376f1eee2980b36\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\765a1204293dbfe9640207d1b67889ce\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\d00a302d73258da520bc99b0be0cdbf7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\58e24fd6d6b554af063219cf01a215f2\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\QuizApplication\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\QuizApplication\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\QuizApplication\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\QuizApplication\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\QuizApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\QuizApplication\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\QuizApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\QuizApplication\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\QuizApplication\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\QuizApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\QuizApplication\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\QuizApplication\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\QuizApplication\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\QuizApplication\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from C:\QuizApplication\app\src\main\AndroidManifest.xml:5:22-78
+application
+ADDED from C:\QuizApplication\app\src\main\AndroidManifest.xml:6:5-23:19
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\3a30d97c073f7c3a9476933bb1a4ce3f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\3a30d97c073f7c3a9476933bb1a4ce3f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\a9b14be5b1b1eceaa5177d09ec76e243\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\a9b14be5b1b1eceaa5177d09ec76e243\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\77490ff5116484d3a3f0089b6f9ab94c\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\77490ff5116484d3a3f0089b6f9ab94c\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\ca7594392aa782b8db23562b6e37f1f7\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\ca7594392aa782b8db23562b6e37f1f7\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7ceebce9c1fb44f74f7fd2d9bba2147e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7ceebce9c1fb44f74f7fd2d9bba2147e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\d27bef52e38db0f4ff699da0ff7e3d31\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\d27bef52e38db0f4ff699da0ff7e3d31\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\eac9360253c444449e68fa3df44faa14\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\eac9360253c444449e68fa3df44faa14\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\00db8cf6f9acece44a97404131378370\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\00db8cf6f9acece44a97404131378370\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\cc2d29969366eda4d65e13e4dfca2e07\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\cc2d29969366eda4d65e13e4dfca2e07\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\ec803f4ec9f3d136f376f1eee2980b36\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\ec803f4ec9f3d136f376f1eee2980b36\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\d00a302d73258da520bc99b0be0cdbf7\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\d00a302d73258da520bc99b0be0cdbf7\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\58e24fd6d6b554af063219cf01a215f2\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\58e24fd6d6b554af063219cf01a215f2\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from C:\QuizApplication\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\QuizApplication\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from C:\QuizApplication\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from C:\QuizApplication\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\QuizApplication\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\QuizApplication\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.example.quizapplication.MainActivity
+ADDED from C:\QuizApplication\app\src\main\AndroidManifest.xml:13:9-22:20
+	android:label
+		ADDED from C:\QuizApplication\app\src\main\AndroidManifest.xml:15:13-45
+	android:theme
+		ADDED from C:\QuizApplication\app\src\main\AndroidManifest.xml:16:13-56
+	android:name
+		ADDED from C:\QuizApplication\app\src\main\AndroidManifest.xml:14:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\QuizApplication\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\QuizApplication\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\QuizApplication\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\QuizApplication\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\QuizApplication\app\src\main\AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from C:\QuizApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\QuizApplication\app\src\main\AndroidManifest.xml
+INJECTED from C:\QuizApplication\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\3a30d97c073f7c3a9476933bb1a4ce3f\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\3a30d97c073f7c3a9476933bb1a4ce3f\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\a9b14be5b1b1eceaa5177d09ec76e243\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\a9b14be5b1b1eceaa5177d09ec76e243\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\77490ff5116484d3a3f0089b6f9ab94c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\77490ff5116484d3a3f0089b6f9ab94c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\ca7594392aa782b8db23562b6e37f1f7\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\ca7594392aa782b8db23562b6e37f1f7\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7ceebce9c1fb44f74f7fd2d9bba2147e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7ceebce9c1fb44f74f7fd2d9bba2147e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\d27bef52e38db0f4ff699da0ff7e3d31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\d27bef52e38db0f4ff699da0ff7e3d31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\eac9360253c444449e68fa3df44faa14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\eac9360253c444449e68fa3df44faa14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\00db8cf6f9acece44a97404131378370\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\00db8cf6f9acece44a97404131378370\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\cc2d29969366eda4d65e13e4dfca2e07\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\cc2d29969366eda4d65e13e4dfca2e07\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\ec803f4ec9f3d136f376f1eee2980b36\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\ec803f4ec9f3d136f376f1eee2980b36\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\765a1204293dbfe9640207d1b67889ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\765a1204293dbfe9640207d1b67889ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\d00a302d73258da520bc99b0be0cdbf7\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\d00a302d73258da520bc99b0be0cdbf7\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\58e24fd6d6b554af063219cf01a215f2\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\58e24fd6d6b554af063219cf01a215f2\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\QuizApplication\app\src\main\AndroidManifest.xml
+INJECTED from C:\QuizApplication\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\3a30d97c073f7c3a9476933bb1a4ce3f\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\QuizApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\QuizApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\QuizApplication\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\QuizApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\QuizApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\QuizApplication\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\3a30d97c073f7c3a9476933bb1a4ce3f\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\a9b14be5b1b1eceaa5177d09ec76e243\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\a9b14be5b1b1eceaa5177d09ec76e243\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\77490ff5116484d3a3f0089b6f9ab94c\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\77490ff5116484d3a3f0089b6f9ab94c\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\ca7594392aa782b8db23562b6e37f1f7\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\ca7594392aa782b8db23562b6e37f1f7\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\d27bef52e38db0f4ff699da0ff7e3d31\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\d27bef52e38db0f4ff699da0ff7e3d31\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\eac9360253c444449e68fa3df44faa14\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\eac9360253c444449e68fa3df44faa14\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\00db8cf6f9acece44a97404131378370\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\00db8cf6f9acece44a97404131378370\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\cc2d29969366eda4d65e13e4dfca2e07\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\cc2d29969366eda4d65e13e4dfca2e07\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\ec803f4ec9f3d136f376f1eee2980b36\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\ec803f4ec9f3d136f376f1eee2980b36\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\765a1204293dbfe9640207d1b67889ce\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\765a1204293dbfe9640207d1b67889ce\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\d00a302d73258da520bc99b0be0cdbf7\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\d00a302d73258da520bc99b0be0cdbf7\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\58e24fd6d6b554af063219cf01a215f2\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\58e24fd6d6b554af063219cf01a215f2\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\3a30d97c073f7c3a9476933bb1a4ce3f\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\fater\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\3a30d97c073f7c3a9476933bb1a4ce3f\AndroidManifest.xml:26:9-47
