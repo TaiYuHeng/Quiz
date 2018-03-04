@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">QuizApplication</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment1</string>
+    <string name="hello_blank_fragment2">Hello blank fragment2</string>
+    <string name="hello_blank_fragment3">Hello blank fragment3</string>
+    <string name="hello_blank_fragment4">Hello blank fragment4</string>
+    <string name="load_image">LOAD IMAGE</string>
+    <string name="clear">Clear</string>
+</resources>
